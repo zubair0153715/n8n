@@ -1,0 +1,3 @@
+# Runtime has no third-party dependencies (pure standard library).
+# Dev/test dependencies:
+pytest>=7.0
