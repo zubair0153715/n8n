@@ -1,35 +1,35 @@
 # Project Catalog
 
-Auto-generated 2026-06-25.
+Auto-generated 2026-06-26.
 
 ## 1. fighting41love/funNLP
 - Fork: https://github.com/zubair0153715/funNLP
 - Source: https://github.com/fighting41love/funNLP
-- Stars: 81443
+- Stars: 81464
 - Language: Python
 
 ## 2. frappe/erpnext
 - Fork: https://github.com/zubair0153715/erpnext
 - Source: https://github.com/frappe/erpnext
-- Stars: 36059
+- Stars: 36083
 - Language: Python
 
 ## 3. ashishpatel26/500-AI-Agents-Projects
 - Fork: https://github.com/zubair0153715/500-AI-Agents-Projects
 - Source: https://github.com/ashishpatel26/500-AI-Agents-Projects
-- Stars: 33062
+- Stars: 33103
 - Language: Python
 
 ## 4. K-Dense-AI/scientific-agent-skills
 - Fork: https://github.com/zubair0153715/scientific-agent-skills
 - Source: https://github.com/K-Dense-AI/scientific-agent-skills
-- Stars: 29313
+- Stars: 29382
 - Language: Python
 
 ## 5. Project-MONAI/MONAI
 - Fork: https://github.com/zubair0153715/MONAI
 - Source: https://github.com/Project-MONAI/MONAI
-- Stars: 8302
+- Stars: 8315
 - Language: Python
 
 ## 6. liuhuanyong/QASystemOnMedicalKG
@@ -47,7 +47,7 @@ Auto-generated 2026-06-25.
 ## 8. beamandrew/medical-data
 - Fork: https://github.com/zubair0153715/medical-data
 - Source: https://github.com/beamandrew/medical-data
-- Stars: 6005
+- Stars: 6006
 - Language: n/a
 
 ## 9. ResearchKit/ResearchKit
@@ -59,6 +59,6 @@ Auto-generated 2026-06-25.
 ## 10. shibing624/MedicalGPT
 - Fork: https://github.com/zubair0153715/MedicalGPT
 - Source: https://github.com/shibing624/MedicalGPT
-- Stars: 5548
+- Stars: 5549
 - Language: Python
 
